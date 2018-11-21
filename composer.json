@@ -1,0 +1,12 @@
+{
+    "name": "attractionclub/lumen-pubsub",
+    "description": "This demo package will do some pubsub",
+    "authors": [
+        {
+            "name": "fedot serghei",
+            "email": "fedot@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
