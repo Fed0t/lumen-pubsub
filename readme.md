@@ -1,6 +1,6 @@
-superbalist/php-pubsub
+Pub/Sub adaptation of superbalist/php-pubsub for lumen
 
-From laravel to lumen adaptation.
+`use Illuminate\Contracts\Foundation\Application;`
+ replaced with 
+`use Laravel\Lumen\Application;` in PubSubManager
 
-`use Illuminate\Contracts\Foundation\Application;` replaced with 
-`use Laravel\Lumen\Application;`
